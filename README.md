@@ -1,7 +1,7 @@
 # Linux
 
-Códigos para Linux
+--Autor: Samir Silva Santos
 
 # Códigos
 
--- Ambiente
+-- [Ambiente.](https://github.com/Samirsilva/Linux/blob/master/Codigos/Montar_Ambiente.sh)
